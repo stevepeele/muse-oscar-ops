@@ -17,6 +17,7 @@ The operating manual for the joint Muse × Oscar operation. One source of truth 
 | 05 | [Handoff formats](docs/05-handoff-formats.md) | How work passes between the leads |
 | 06 | [Linear process](docs/06-linear-process.md) | Tasks, assignment, delegation — the book of record |
 | 07 | [Decisions](docs/07-decisions.md) | Decision log with dates and Linear refs |
+| 08 | [Oscar's inputs](docs/08-oscar-inputs.md) | Forensics, roster, runbooks, guardrail, 15 decisions for Steve |
 
 ## Book of record
 
